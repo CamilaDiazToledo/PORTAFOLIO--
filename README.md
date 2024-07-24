@@ -43,7 +43,8 @@ Abre el archivo index.html.
 Haz clic en el botón en la parte inferior derecha de Visual Studio Code llamado.
 
 ### Visualizaciòn :eyes: 
-![image](https://github.com/user-attachments/assets/23dec902-78e1-459f-bb8b-6564909b4307)
+![image](https://github.com/user-attachments/assets/aa54d026-297a-4db6-a531-b996edbb392e)
+
 
 ## Estructura del Sitio Web 🏗️
 
